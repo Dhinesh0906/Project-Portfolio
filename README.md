@@ -26,7 +26,7 @@ A smooth and responsive shopping experience with:
 - Add-to-cart and cart management system
 - Checkout simulation and confirmation flow
 - Clean, modern user interface built natively
-
+🌐 [Live Demo](https://final-elitee.onrender.com)
 🔗 [GitHub Repo](https://github.com/Dhinesh0906/Elite-kart)
 
 ---
@@ -40,7 +40,7 @@ An all-in-one job portal featuring:
 - Company reviews, job alerts, and application tracker
 - Career chatbot for instant guidance
 
-🌐 [Live Demo](https://final-elitee.onrender.com)  
+🌐 [Live Demo](https://career-hub-rdz0.onrender.com)  
 🔗 [GitHub Repo](https://github.com/Dhinesh0906/Career-Hub)
 
 ---
