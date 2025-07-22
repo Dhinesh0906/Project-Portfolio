@@ -1,6 +1,6 @@
 # 🚀 Dhinesh Kumar B – Project Portfolio
 
-Hey! I'm Dhinesh Kumar B, an iOS developer and full-stack enthusiast. Here’s a collection of my best work — each project built with dedication, learning, and vision.
+Hey! I'm Dhinesh Kumar B, an iOS  ,full-stack developer and ai enthusiast. Here’s a collection of my best work — each project built with dedication, learning, and vision.
 
 ---
 
