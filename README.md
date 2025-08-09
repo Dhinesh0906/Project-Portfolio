@@ -7,7 +7,7 @@ Hey! I'm Dhinesh Kumar B, an iOS  ,full-stack developer and ai enthusiast. Here�
 ## 🌱 Eco-gram – A Social Media App for Farmers  
 > 🏆 IEEE YESIST12 2024 Finalist – Maker Fair Track
 
-A native iOS app that empowers farmers by providing:
+A app that empowers farmers by providing:
 - Real-time expert consultation via chat/video
 - Offline peer-to-peer messaging without internet
 - Marketplace to sell produce directly to buyers
