@@ -1,6 +1,22 @@
 # 🚀 Dhinesh Kumar B – Project Portfolio
 
-Hey! I'm Dhinesh Kumar B, an iOS  ,full-stack developer and ai enthusiast. Here’s a collection of my best work — each project built with dedication, learning, and vision.
+Backend Developer | ML-Integrated Systems | iOS & Full-Stack Development | UI/UX Developer
+
+---
+
+## 🐟 FishNet – AI-Based Fish Detection & Analysis System  
+> 🏆 Smart India Hackathon 2025 Finalist  
+
+An AI-powered mobile system for real-time fish identification and analysis, built for low-connectivity coastal environments.
+
+- On-device fish species detection using TensorFlow Lite (CNN)
+- Freshness, length, and weight estimation from image input
+- Fully offline operation with automatic cloud sync
+- Optimized for low-end devices (2–3GB RAM, <2s inference)
+- Hybrid storage using SQLite (offline) and Firestore (cloud)
+
+📽️ [Demo Video](https://youtu.be/Io1LXK7Xtgo?si=2aZorN6MvpMa-jiY)  
+🔗 [GitHub Repo](https://github.com/Dhinesh0906/Project-Portfolio)  
 
 ---
 
@@ -8,52 +24,53 @@ Hey! I'm Dhinesh Kumar B, an iOS  ,full-stack developer and ai enthusiast. Here�
 > 🏆 IEEE YESIST12 2024 Finalist – Maker Fair Track
 
 An App that empowers farmers by providing:
-- Real-time expert consultation via chat/video
-- Offline peer-to-peer messaging without internet
-- Marketplace to sell produce directly to buyers
-- Real-time weather and market price insights
-- Community forums for collaborative learning
+
+- Real-time expert consultation via chat/video  
+- Offline peer-to-peer messaging without internet  
+- Marketplace to sell produce directly to buyers  
+- Real-time weather and market price insights  
+- Community forums for collaborative learning  
 
 📽️ [Demo Video](https://youtube.com/shorts/QQvQKb0OC24?si=cM_lkAalng9QlldC)  
 🔗 [GitHub Repo](https://github.com/Dhinesh0906/Eco-gram)
 
 ---
 
-## 🛒 Elite Kart – Mobile E-Commerce Shopping App
+## 💼 Career Hub – Job Aggregation & Recommendation System  
 
-A smooth and responsive shopping experience with:
-- Full product catalog and image previews
-- Add-to-cart and cart management system
-- Checkout simulation and confirmation flow
-- Clean, modern user interface built natively
-🌐 [Live Demo](https://final-elitee.onrender.com)
-🔗 [GitHub Repo](https://github.com/Dhinesh0906/Elite-kart)
+A backend-driven job platform featuring:
 
----
-
-## 💼 Career Hub – AI-Powered Job Search Platform
-
-An all-in-one job portal featuring:
-- Real-time search and filters for 100+ jobs
-- Smart job recommendations using AI
-- Resume builder with PDF export
-- Company reviews, job alerts, and application tracker
-- Career chatbot for instant guidance
+- Real-time job search and filtering  
+- Recommendation logic based on user preferences  
+- Resume builder with PDF export  
+- Job alerts and application tracking  
+- Integrated chatbot for career guidance  
 
 🌐 [Live Demo](https://career-hub-rdz0.onrender.com)  
 🔗 [GitHub Repo](https://github.com/Dhinesh0906/Career-Hub)
 
 ---
 
-## ☁️ WeatherNow – Real-Time Weather Application
+## 🛒 Elite Kart – Mobile E-Commerce Shopping App  
 
-A comprehensive weather app offering:
-- Real-time current weather with detailed metrics
-- 7-day extended forecast and hourly updates
-- Search and add any city worldwide
-- Save favorite locations and manage them easily
-- Interactive weather maps with precipitation data
-- Auto-location detection and mobile-first design
+A responsive shopping experience with:
+
+- Product catalog and image previews  
+- Cart management and checkout flow  
+- Clean UI with smooth navigation  
+
+🌐 [Live Demo](https://final-elitee.onrender.com)  
+🔗 [GitHub Repo](https://github.com/Dhinesh0906/Elite-kart)
+
+---
+
+## ☁️ WeatherNow – Real-Time Weather Application  
+
+A weather application providing:
+
+- Real-time weather data and forecasts  
+- Search and save multiple cities  
+- Interactive maps and location-based updates  
 
 🌐 [Live Demo](https://final-final-weather.onrender.com)  
 🔗 [GitHub Repo](https://github.com/Dhinesh0906/final-final-weather)
@@ -64,7 +81,3 @@ A comprehensive weather app offering:
 
 - 📧 dhineshkumar0906@gmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/dhinesh0906)
-
----
-
-> Made with ❤️ by Dhinesh Kumar B
