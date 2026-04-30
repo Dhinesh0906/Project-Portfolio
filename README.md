@@ -16,7 +16,7 @@ An AI-powered mobile system for real-time fish identification and analysis, buil
 - Hybrid storage using SQLite (offline) and Firestore (cloud)
 
 📽️ [Demo Video](https://youtu.be/Io1LXK7Xtgo?si=2aZorN6MvpMa-jiY)  
-🔗 [GitHub Repo](https://github.com/Dhinesh0906/Project-Portfolio)  
+🔗 [GitHub Repo](https://github.com/Dhinesh0906/fish-net)  
 
 ---
 
@@ -80,4 +80,4 @@ A weather application providing:
 ## 📬 Contact
 
 - 📧 dhineshkumar0906@gmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/dhinesh0906)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/dhinesh-kumar-b-876a90320/)
