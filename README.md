@@ -51,6 +51,19 @@ A backend-driven job platform featuring:
 
 ---
 
+## 🎮 Winvoy – Windows PC Games on iPhone
+
+A fork of [Madeira](https://github.com/willfaust/Madeira) that runs Windows PC games on iPhone without a jailbreak.
+
+- Uses FEX-Emu, Wine, and DXMT to run x86 games and render Direct3D graphics through Metal
+- Adds fixes for game compatibility, memory use, and performance on iOS
+- Supports a game library, Steam integration, controllers, and touch controls
+- Tested with God of War (2018) on iPhone 15 Pro and X-Men Origins: Wolverine (2009) on iPad Air 4
+
+🔗 [GitHub Repo](https://github.com/Dhinesh0906/Winvoy)
+
+---
+
 ## 📬 Contact
 -  https://portfolio-eight-rose-69.vercel.app
 - 📧 dhineshkumar0906@gmail.com  
