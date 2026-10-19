@@ -4,6 +4,20 @@ Backend Developer | ML-Integrated Systems | iOS & Full-Stack Development | UI/UX
 
 ---
 
+## 🎬 AI Cinema Shorts – Autonomous Short-Film Creator
+
+An Apple Silicon pipeline that turns an idea into a subtitled 30–60 second vertical film.
+
+- Generates stories, character art, animated shots, narration, sound, and music
+- Checks each stage with an independent AI critic and regenerates failed assets
+- Renders the final video with captions and supports YouTube Shorts publishing
+- Offers Telegram controls for starting, monitoring, pausing, and resuming jobs
+- Runs its heavy models locally and uses the free Ollama Cloud tier for text models
+
+🔗 [GitHub Repo](https://github.com/Dhinesh0906/ai-cinema-shorts)
+
+---
+
 ## 🐟 FishNet – AI-Based Fish Detection & Analysis System  
 > 🏆 Smart India Hackathon 2025 Finalist  
 
