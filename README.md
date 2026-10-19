@@ -4,6 +4,23 @@ Backend Developer | ML-Integrated Systems | iOS & Full-Stack Development | UI/UX
 
 ---
 
+## 🐟 FishNet – AI-Based Fish Detection & Analysis System
+> 🏆 Smart India Hackathon 2025 Finalist
+
+An AI-powered mobile system for real-time fish identification and analysis, built for low-connectivity coastal environments.
+
+- On-device fish species detection using TensorFlow Lite (CNN)
+- Freshness, length, and weight estimation from image input
+- Fully offline operation with automatic cloud sync
+- Optimized for low-end devices (2–3GB RAM, <2s inference)
+- Hybrid storage using SQLite (offline) and Firestore (cloud)
+
+📽️ [Demo Video](https://youtu.be/Io1LXK7Xtgo?si=2aZorN6MvpMa-jiY)
+
+🔗 [GitHub Repo](https://github.com/Dhinesh0906/fish-net)
+
+---
+
 ## 🎬 AI Cinema Shorts – Autonomous Short-Film Creator
 
 An Apple Silicon pipeline that turns an idea into a subtitled 30–60 second vertical film.
@@ -29,22 +46,6 @@ A self-hosted Python system for building a company database and running personal
 - Uses SQLite, DuckDB, FastAPI, local AI models, and Amazon SES; the public repo shares a selected code sample and full architecture README
 
 🔗 [GitHub Repo](https://github.com/Dhinesh0906/gtm-engine)
-
----
-
-## 🐟 FishNet – AI-Based Fish Detection & Analysis System  
-> 🏆 Smart India Hackathon 2025 Finalist  
-
-An AI-powered mobile system for real-time fish identification and analysis, built for low-connectivity coastal environments.
-
-- On-device fish species detection using TensorFlow Lite (CNN)
-- Freshness, length, and weight estimation from image input
-- Fully offline operation with automatic cloud sync
-- Optimized for low-end devices (2–3GB RAM, <2s inference)
-- Hybrid storage using SQLite (offline) and Firestore (cloud)
-
-📽️ [Demo Video](https://youtu.be/Io1LXK7Xtgo?si=2aZorN6MvpMa-jiY)  
-🔗 [GitHub Repo](https://github.com/Dhinesh0906/fish-net)  
 
 ---
 
