@@ -51,32 +51,6 @@ A backend-driven job platform featuring:
 
 ---
 
-## 🛒 Elite Kart – Mobile E-Commerce Shopping App  
-
-A responsive shopping experience with:
-
-- Product catalog and image previews  
-- Cart management and checkout flow  
-- Clean UI with smooth navigation  
-
-🌐 [Live Demo](https://final-elitee.onrender.com)  
-🔗 [GitHub Repo](https://github.com/Dhinesh0906/Elite-kart)
-
----
-
-## ☁️ WeatherNow – Real-Time Weather Application  
-
-A weather application providing:
-
-- Real-time weather data and forecasts  
-- Search and save multiple cities  
-- Interactive maps and location-based updates  
-
-🌐 [Live Demo](https://final-final-weather.onrender.com)  
-🔗 [GitHub Repo](https://github.com/Dhinesh0906/final-final-weather)
-
----
-
 ## 📬 Contact
 -  https://portfolio-eight-rose-69.vercel.app
 - 📧 dhineshkumar0906@gmail.com  
