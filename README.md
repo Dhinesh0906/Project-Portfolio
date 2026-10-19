@@ -21,20 +21,6 @@ An AI-powered mobile system for real-time fish identification and analysis, buil
 
 ---
 
-## 🎬 AI Cinema Shorts – Autonomous Short-Film Creator
-
-An Apple Silicon pipeline that turns an idea into a subtitled 30–60 second vertical film.
-
-- Generates stories, character art, animated shots, narration, sound, and music
-- Checks each stage with an independent AI critic and regenerates failed assets
-- Renders the final video with captions and supports YouTube Shorts publishing
-- Offers Telegram controls for starting, monitoring, pausing, and resuming jobs
-- Runs its heavy models locally and uses the free Ollama Cloud tier for text models
-
-🔗 [GitHub Repo](https://github.com/Dhinesh0906/ai-cinema-shorts)
-
----
-
 ## 🚀 GTM Engine – AI-Powered Go-to-Market System
 
 A self-hosted Python system for building a company database and running personalized outbound campaigns.
@@ -46,6 +32,20 @@ A self-hosted Python system for building a company database and running personal
 - Uses SQLite, DuckDB, FastAPI, local AI models, and Amazon SES; the public repo shares a selected code sample and full architecture README
 
 🔗 [GitHub Repo](https://github.com/Dhinesh0906/gtm-engine)
+
+---
+
+## 🎬 AI Cinema Shorts – Autonomous Short-Film Creator
+
+An Apple Silicon pipeline that turns an idea into a subtitled 30–60 second vertical film.
+
+- Generates stories, character art, animated shots, narration, sound, and music
+- Checks each stage with an independent AI critic and regenerates failed assets
+- Renders the final video with captions and supports YouTube Shorts publishing
+- Offers Telegram controls for starting, monitoring, pausing, and resuming jobs
+- Runs its heavy models locally and uses the free Ollama Cloud tier for text models
+
+🔗 [GitHub Repo](https://github.com/Dhinesh0906/ai-cinema-shorts)
 
 ---
 
