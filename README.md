@@ -18,6 +18,20 @@ An Apple Silicon pipeline that turns an idea into a subtitled 30–60 second ver
 
 ---
 
+## 🚀 GTM Engine – AI-Powered Go-to-Market System
+
+A self-hosted Python system for building a company database and running personalized outbound campaigns.
+
+- Collects and deduplicates company data from public sources into a searchable database
+- Discovers contacts, researches businesses, and matches leads to product-specific customer segments
+- Uses AI to draft grounded outreach and replies, with validation checks and human review
+- Tracks delivery, responses, and campaign performance through an operator dashboard
+- Uses SQLite, DuckDB, FastAPI, local AI models, and Amazon SES; the public repo shares a selected code sample and full architecture README
+
+🔗 [GitHub Repo](https://github.com/Dhinesh0906/gtm-engine)
+
+---
+
 ## 🐟 FishNet – AI-Based Fish Detection & Analysis System  
 > 🏆 Smart India Hackathon 2025 Finalist  
 
