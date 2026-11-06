@@ -1,4 +1,4 @@
-![Dhinesh Kumar B](assets/hero.png)
+![Dhinesh Kumar B](assets/hero.gif)
 
 ---
 
