@@ -2,11 +2,15 @@
 
 ---
 
-## S / 01 · SELECTED WORK
+## 🚀 Selected Work
 
-### 🐟 FishNet – AI-Based Fish Detection & Analysis System
+<table>
+<tr>
+<td width="50%">
 
-> 🏆 Smart India Hackathon 2025 Finalist
+<a href="https://github.com/Dhinesh0906/fish-net"><img src="assets/cards/fishnet.png" width="100%" alt="FishNet"></a>
+
+🏆 **Smart India Hackathon 2025 Finalist**
 
 An AI-powered mobile system for real-time fish identification and analysis, built for low-connectivity coastal environments.
 
@@ -16,13 +20,14 @@ An AI-powered mobile system for real-time fish identification and analysis, buil
 - Optimized for low-end devices (2–3GB RAM, <2s inference)
 - Hybrid storage using SQLite (offline) and Firestore (cloud)
 
-`INFERENCE < 2.0s` · `RAM 2–3 GB` · `UPLINK OPTIONAL`
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-[📽️ Demo Video](https://youtu.be/Io1LXK7Xtgo?si=2aZorN6MvpMa-jiY)  ·  [🔗 GitHub Repo](https://github.com/Dhinesh0906/fish-net)
+[📽️ Demo Video](https://youtu.be/Io1LXK7Xtgo?si=2aZorN6MvpMa-jiY) · [🔗 GitHub Repo](https://github.com/Dhinesh0906/fish-net)
 
----
+</td>
+<td width="50%">
 
-### 🚀 GTM Engine – AI-Powered Go-to-Market System
+<a href="https://github.com/Dhinesh0906/gtm-engine"><img src="assets/cards/gtm.png" width="100%" alt="GTM Engine"></a>
 
 A self-hosted Python system for building a company database and running personalized outbound campaigns.
 
@@ -32,13 +37,16 @@ A self-hosted Python system for building a company database and running personal
 - Tracks delivery, responses, and campaign performance through an operator dashboard
 - Uses SQLite, DuckDB, FastAPI, local AI models, and Amazon SES; the public repo shares a selected code sample and full architecture README
 
-`SELF-HOSTED` · `LOCAL AI` · `SES DELIVERY`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 [🔗 GitHub Repo](https://github.com/Dhinesh0906/gtm-engine)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-### 🎬 AI Cinema Shorts – Autonomous Short-Film Creator
+<a href="https://github.com/Dhinesh0906/ai-cinema-shorts"><img src="assets/cards/cinema.png" width="100%" alt="AI Cinema Shorts"></a>
 
 An Apple Silicon pipeline that turns an idea into a subtitled 30–60 second vertical film.
 
@@ -48,15 +56,16 @@ An Apple Silicon pipeline that turns an idea into a subtitled 30–60 second ver
 - Offers Telegram controls for starting, monitoring, pausing, and resuming jobs
 - Runs its heavy models locally and uses the free Ollama Cloud tier for text models
 
-`30–60S FILMS` · `LOCAL MODELS` · `TELEGRAM CONTROL`
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 
 [🔗 GitHub Repo](https://github.com/Dhinesh0906/ai-cinema-shorts)
 
----
+</td>
+<td width="50%">
 
-### 🌱 Eco-gram – A Social Media App for Farmers
+<a href="https://github.com/Dhinesh0906/Eco-gram"><img src="assets/cards/ecogram.png" width="100%" alt="Eco-gram"></a>
 
-> 🏆 IEEE YESIST12 2024 Finalist – Maker Fair Track
+🏆 **IEEE YESIST12 2024 Finalist – Maker Fair Track**
 
 An App that empowers farmers by providing:
 
@@ -66,13 +75,16 @@ An App that empowers farmers by providing:
 - Real-time weather and market price insights
 - Community forums for collaborative learning
 
-`OFFLINE P2P` · `MARKETPLACE` · `WEATHER + PRICES`
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-[📽️ Demo Video](https://youtube.com/shorts/QQvQKb0OC24?si=cM_lkAalng9QlldC)  ·  [🔗 GitHub Repo](https://github.com/Dhinesh0906/Eco-gram)
+[📽️ Demo Video](https://youtube.com/shorts/QQvQKb0OC24?si=cM_lkAalng9QlldC) · [🔗 GitHub Repo](https://github.com/Dhinesh0906/Eco-gram)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-### 💼 Career Hub – Job Aggregation & Recommendation System
+<a href="https://github.com/Dhinesh0906/Career-Hub"><img src="assets/cards/careerhub.png" width="100%" alt="Career Hub"></a>
 
 A backend-driven job platform featuring:
 
@@ -82,13 +94,14 @@ A backend-driven job platform featuring:
 - Job alerts and application tracking
 - Integrated chatbot for career guidance
 
-`JOB AGGREGATION` · `PDF EXPORT` · `JOB ALERTS`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-[🌐 Live Demo](https://career-hub-rdz0.onrender.com)  ·  [🔗 GitHub Repo](https://github.com/Dhinesh0906/Career-Hub)
+[🌐 Live Demo](https://career-hub-rdz0.onrender.com) · [🔗 GitHub Repo](https://github.com/Dhinesh0906/Career-Hub)
 
----
+</td>
+<td width="50%">
 
-### 🎮 Winvoy – Windows PC Games on iPhone
+<a href="https://github.com/Dhinesh0906/Winvoy"><img src="assets/cards/winvoy.png" width="100%" alt="Winvoy"></a>
 
 A fork of [Madeira](https://github.com/willfaust/Madeira) that runs Windows PC games on iPhone without a jailbreak.
 
@@ -97,27 +110,32 @@ A fork of [Madeira](https://github.com/willfaust/Madeira) that runs Windows PC g
 - Supports a game library, Steam integration, controllers, and touch controls
 - Tested with God of War (2018) on iPhone 15 Pro and X-Men Origins: Wolverine (2009) on iPad Air 4
 
-`x86 ON iOS` · `STEAM INTEGRATION` · `TOUCH CONTROLS`
+![Apple](https://img.shields.io/badge/Apple-000000?style=flat-square&logo=apple&logoColor=white) ![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white)
 
 [🔗 GitHub Repo](https://github.com/Dhinesh0906/Winvoy)
 
----
-
-## S / 02 · STACK
-
-```
-▸ LANGUAGE    Python
-▸ FRAMEWORK   FastAPI
-▸ DATA        SQLite · DuckDB · Firestore
-▸ CLOUD       Amazon SES
-▸ ML / EDGE   TensorFlow Lite · CNN · Ollama
-▸ PLATFORM    iOS · Metal · Apple Silicon · Telegram Bot API
-▸ COMPAT      FEX-Emu · Wine · DXMT
-```
+</td>
+</tr>
+</table>
 
 ---
 
-## S / 03 · CONTACT
+## 🛠️ Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+
+---
+
+## 📬 Contact
 
 <div align="center">
 
