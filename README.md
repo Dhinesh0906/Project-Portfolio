@@ -1,6 +1,6 @@
 ![Dhinesh Kumar B](assets/hero.gif)
 
----
+<img src="assets/divider.png" width="100%">
 
 ## 🚀 Selected Work
 
@@ -8,7 +8,7 @@
 <tr>
 <td width="50%">
 
-<a href="https://github.com/Dhinesh0906/fish-net"><img src="assets/cards/fishnet.png" width="100%" alt="FishNet"></a>
+<a href="https://github.com/Dhinesh0906/fish-net"><img src="assets/cards/fishnet.gif" width="100%" alt="FishNet"></a>
 
 🏆 **Smart India Hackathon 2025 Finalist**
 
@@ -27,7 +27,7 @@ An AI-powered mobile system for real-time fish identification and analysis, buil
 </td>
 <td width="50%">
 
-<a href="https://github.com/Dhinesh0906/gtm-engine"><img src="assets/cards/gtm.png" width="100%" alt="GTM Engine"></a>
+<a href="https://github.com/Dhinesh0906/gtm-engine"><img src="assets/cards/gtm.gif" width="100%" alt="GTM Engine"></a>
 
 A self-hosted Python system for building a company database and running personalized outbound campaigns.
 
@@ -46,7 +46,7 @@ A self-hosted Python system for building a company database and running personal
 <tr>
 <td width="50%">
 
-<a href="https://github.com/Dhinesh0906/ai-cinema-shorts"><img src="assets/cards/cinema.png" width="100%" alt="AI Cinema Shorts"></a>
+<a href="https://github.com/Dhinesh0906/ai-cinema-shorts"><img src="assets/cards/cinema.gif" width="100%" alt="AI Cinema Shorts"></a>
 
 An Apple Silicon pipeline that turns an idea into a subtitled 30–60 second vertical film.
 
@@ -63,7 +63,7 @@ An Apple Silicon pipeline that turns an idea into a subtitled 30–60 second ver
 </td>
 <td width="50%">
 
-<a href="https://github.com/Dhinesh0906/Eco-gram"><img src="assets/cards/ecogram.png" width="100%" alt="Eco-gram"></a>
+<a href="https://github.com/Dhinesh0906/Eco-gram"><img src="assets/cards/ecogram.gif" width="100%" alt="Eco-gram"></a>
 
 🏆 **IEEE YESIST12 2024 Finalist – Maker Fair Track**
 
@@ -84,7 +84,7 @@ An App that empowers farmers by providing:
 <tr>
 <td width="50%">
 
-<a href="https://github.com/Dhinesh0906/Career-Hub"><img src="assets/cards/careerhub.png" width="100%" alt="Career Hub"></a>
+<a href="https://github.com/Dhinesh0906/Career-Hub"><img src="assets/cards/careerhub.gif" width="100%" alt="Career Hub"></a>
 
 A backend-driven job platform featuring:
 
@@ -101,7 +101,7 @@ A backend-driven job platform featuring:
 </td>
 <td width="50%">
 
-<a href="https://github.com/Dhinesh0906/Winvoy"><img src="assets/cards/winvoy.png" width="100%" alt="Winvoy"></a>
+<a href="https://github.com/Dhinesh0906/Winvoy"><img src="assets/cards/winvoy.gif" width="100%" alt="Winvoy"></a>
 
 A fork of [Madeira](https://github.com/willfaust/Madeira) that runs Windows PC games on iPhone without a jailbreak.
 
@@ -118,7 +118,7 @@ A fork of [Madeira](https://github.com/willfaust/Madeira) that runs Windows PC g
 </tr>
 </table>
 
----
+<img src="assets/divider.png" width="100%">
 
 ## 🛠️ Stack
 
@@ -133,7 +133,7 @@ A fork of [Madeira](https://github.com/willfaust/Madeira) that runs Windows PC g
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
----
+<img src="assets/divider.png" width="100%">
 
 ## 📬 Contact
 
@@ -142,5 +142,8 @@ A fork of [Madeira](https://github.com/willfaust/Madeira) that runs Windows PC g
 [![Portfolio](https://img.shields.io/badge/Portfolio-b9b4f7?style=for-the-badge&logo=vercel&logoColor=0a0a0c)](https://dhinesh-portfolio-red.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-b9b4f7?style=for-the-badge&logo=linkedin&logoColor=0a0a0c)](https://www.linkedin.com/in/dhinesh-kumar-b-876a90320/)
 [![Email](https://img.shields.io/badge/Email-b9b4f7?style=for-the-badge&logo=gmail&logoColor=0a0a0c)](mailto:dhineshkumar0906@gmail.com)
+
+![Followers](https://img.shields.io/github/followers/Dhinesh0906?style=flat-square&color=0d1117)
+![Stars](https://img.shields.io/github/stars/Dhinesh0906?style=flat-square&color=0d1117)
 
 </div>
